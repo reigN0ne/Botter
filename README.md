@@ -30,3 +30,9 @@ Welcome to **Botter**, where bot management meets innovation, offering a seamles
   - 📊 Analytics tools for insights into your bot's performance across different regions.
 
 Unleash the power of Botter and embark on a journey where simplicity meets sophistication in the realm of bot management! 🌐🚀
+
+
+## To do's intial list : (Most probably I will look into this on weekends)
+- Add central point of control
+- Add support for discord and instagram
+- Test the inital flow
